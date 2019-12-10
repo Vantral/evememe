@@ -1,6 +1,6 @@
 import telebot, random, time
 
-bot = telebot.TeleBot('1024854764:AAH47BVSzMW_eSPLSwZ1id-s1Jz_1yLu_os')
+bot = telebot.TeleBot('Token')
 MEMES = [
     ('image1',
      ['дэтылэн -- плавник', 'би- -- быть, иметься'],
